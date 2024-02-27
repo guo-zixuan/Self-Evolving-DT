@@ -5,7 +5,7 @@ This is a GitHub repo for the submitted paper "A Self-Evolving Digital Twin Syst
 Management based on Online Deep Learning" to IROS 2024. In this repo, we will release the realization of the proposed method called online LSTM, collected UAV data, and other comparison methods. 
 
 
-## The parameter settings of the methods
+## The parameter settings of the comparison methods
 
 |    Models    |                                                                                                                                                                 Model setting                                                                                                                                                                |
 |:------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
